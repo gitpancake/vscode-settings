@@ -5,7 +5,7 @@
   "editor.cursorWidth": 2,
   "editor.renderWhitespace": "boundary",
   /** Typescript TSDK **/
-  "typescript.tsdk": "/home/henry/.nvm/versions/node/v14.4.0/lib/node_modules/typescript/lib",
+  "typescript.tsdk": "<global-typescript-path>",
   /** Confirm on Delete **/
   "explorer.confirmDelete": false,
   /** Auto Save **/
