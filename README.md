@@ -12,6 +12,7 @@ This was created to make it easier for me to transfer settings to new machines, 
 ### Plugins
 - [Clock](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock)
 - [Dracula Theme](https://github.com/dracula/visual-studio-code)
+- [Markdownlint](https://github.com/DavidAnson/vscode-markdownlint)
 - [Prettier](https://github.com/prettier/prettier-vscode)
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
 - [Typescript](https://github.com/microsoft/typescript) _global installation, ref: line 8_
