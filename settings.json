@@ -1,0 +1,107 @@
+{
+  /** Cursor Settings **/
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorWidth": 2,
+  "editor.renderWhitespace": "boundary",
+  /** Typescript TSDK **/
+  "typescript.tsdk": "/home/henry/.nvm/versions/node/v14.4.0/lib/node_modules/typescript/lib",
+  /** Confirm on Delete **/
+  "explorer.confirmDelete": false,
+  /** Auto Save **/
+  "files.autoSave": "onFocusChange",
+  /** Updating Imports on File Move (TS / JS / ReacT) **/
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  /** Clock **/
+  "clock.format": "HH:MM",
+  /** GitLens **/
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  /** VS Code Fonts **/
+  "editor.tokenColorCustomizations": null,
+  "editor.fontFamily": "Fira Code",
+  "terminal.integrated.fontFamily": "Meslo LG M DZ",
+  "editor.fontLigatures": true,
+  /** VSCode Icons **/
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.associations.folders": [
+    {
+      "icon": "graphql",
+      "extensions": ["gql", "resolvers"]
+    },
+    {
+      "icon": "mongodb",
+      "extensions": ["schemas", "models"]
+    },
+    {
+      "icon": "tools",
+      "extensions": ["system"]
+    }
+  ],
+  /** General Workbench **/
+  "workbench.sideBar.location": "left",
+  "workbench.colorTheme": "Dracula Soft",
+  /** Global Prettier Settings **/
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.useTabs": true,
+  /** Language Configurations **/
+  "[json]": {
+    "editor.defaultFormatter": "mohsen1.prettify-json"
+  },
+  "[python]": {
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.defaultFormatter": "vscode.python",
+    "editor.insertSpaces": false
+  },
+  "[javascriptreact]": {
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true,
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true,
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true,
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": true,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true,
+      "source.fixAll": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.preferredLightColorTheme": "Default Dark+",
+  "workbench.colorCustomizations": {
+  
+  },
+  "window.zoomLevel": -1
+}
