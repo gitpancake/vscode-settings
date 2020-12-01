@@ -10,6 +10,7 @@ This was created to make it easier for me to transfer settings to new machines, 
 - [FiraCode](https://www.github.com/tonsky/FiraCode)
 
 ### Plugins
+- [Clock](https://marketplace.visualstudio.com/items?itemName=angelo-breuer.clock)
 - [Dracula Theme](https://github.com/dracula/visual-studio-code)
 - [Prettier](https://github.com/prettier/prettier-vscode)
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
