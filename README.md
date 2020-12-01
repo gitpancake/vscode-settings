@@ -17,5 +17,6 @@ This was created to make it easier for me to transfer settings to new machines, 
 - [npm](https://github.com/Microsoft/vscode-npm-scripts)
 - [Prettier](https://github.com/prettier/prettier-vscode)
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
+- [ReactJS Code Snippets](https://github.com/xabikos/vscode-react)
 - [Typescript](https://github.com/microsoft/typescript) _global installation, ref: line 8_
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons)
